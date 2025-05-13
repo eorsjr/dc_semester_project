@@ -1,0 +1,12 @@
+File,Entropy (bits per byte),Compression Ratio (LZ77),Compression Ratio (LZ78)
+sample1.data,0,2.62,103.5
+sample1b.data,0,2.62,103.4
+sample2.data,8,0.12,5.24
+sample3.data,1,0.67,2.05
+sample4.data,0.4,1.4,4.69
+sample5.data,8,0.13,0.32
+sample5b.data,8,2.58,4.45
+sample6.data,8,0.14,0.3
+sample7.data,7.69,0.15,0.29
+sample.RW2,7.53,0.14,0.38
+sample.bmp,2.29,2.62,164.1

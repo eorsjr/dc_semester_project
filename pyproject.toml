@@ -1,0 +1,22 @@
+[build-system]
+build-backend = "setuptools.build_meta"
+requires = ["setuptools>=61.0"]
+[project]
+authors = [
+  {name = "Eörs Szathmáry", email = "szathmary.eors@hallgato.ppke.hu"},
+]
+dependencies = ['pandas>=2.0.0']
+description = "A compressor-decompressor university project."
+name = "dc_semester_project"
+readme = "README.rst"
+requires-python = ">=3.10"
+version = "0.1.0"
+
+license = {file = "LICENSE.txt"}
+
+classifiers = [
+  "Programming Language :: Python :: 3",
+  "Operating System :: OS Independent",
+  "License :: OSI Approved :: MIT License",
+  "Topic :: Scientific/Engineering",
+]
